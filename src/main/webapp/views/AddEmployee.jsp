@@ -148,7 +148,7 @@ label {
 					</fieldset>
 					<br>
 					<footer>
-						<h6>Copyright 2020-2021 by Java Fresher Training</h6>
+						<h6>Copyright 2020-2021 by Java Fresher Trainingdemo</h6>
 					</footer>
 				</form>
 			</div>
